@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+
+## Video
+
+
+https://github.com/Marwanhoo/flutter-clean-architecture-posts-app/assets/125823028/ea66db41-d718-46d2-b791-fe8fa033a3b6
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
